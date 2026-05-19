@@ -6,7 +6,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ## Tools Required
 ### Cadence Virtuoso Suite
 - **Virtuoso Schematic Editor** (for circuit design)
-- **Spectre Simulator** (for circuit simulation)
+- **Spectre Simulator** (for circuit simulation).
 
 ### Process Design Kit (PDK)
 - CMOS technology library
