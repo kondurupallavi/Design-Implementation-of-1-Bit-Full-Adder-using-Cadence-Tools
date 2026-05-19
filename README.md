@@ -58,4 +58,4 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ## Results
 1. Successfully designed the **1-bit Full Adder** schematic using **Cadence Virtuoso**.
 2. Performed **transient analysis**, verifying the correct operation of the **Full Adder**.
-3. Observed **correct logic switching behavior** in response to input signals.
+3. Observed **correct logic switching behavior** in response to input signals..
